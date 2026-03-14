@@ -2,6 +2,7 @@
 
 *EE 367, Stanford University*
 *By Sonia Minseo Kim, 2/2/2025*\
+*Adapted by Munir Nafea Bshara*
 
 In this assignment, we will use Google Colab to access its GPU. Google Colab is a free
 online hosting service where Jupyter Notebooks (an interactive version of a Python code script)
@@ -26,3 +27,6 @@ in your Drive, right-click on it, and select "Open with" > "Google Colaboratory"
 notebook within the Colab interface. Finally, follow the instructions in the notebook and run each cell 
 step by step.
 
+------------Munir's Additions------------
+All tasks completed, but added one more which was task7.ipynb. This handles all the compression via svd and the singular value analysis for many times.
+This takes a long time 2 hours on T4.
